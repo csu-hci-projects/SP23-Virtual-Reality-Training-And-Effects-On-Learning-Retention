@@ -5,6 +5,27 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/LR_VR/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"E:/LR_VR/Content/VRTemplate/Maps/_GENERATED/wesjones/Merge_D420C95F.uasset",
+				"E:/LR_VR/Content/VRTemplate/Maps/_GENERATED/wesjones/Merge_6454C355.uasset",
+				"E:/LR_VR/Content/VRTemplate/Maps/_GENERATED/wesjones/Merge_4606FCC4.uasset",
+				"E:/LR_VR/Content/VRTemplate/Maps/_GENERATED/wesjones/Merge_02F373E8.uasset",
+				"E:/LR_VR/Content/VRTemplate/Maps/_GENERATED/wesjones/Merge_0A2246BE.uasset",
+				"E:/LR_VR/Content/VRTemplate/Maps/_GENERATED/wesjones/Merge_253BB785.uasset",
+				"E:/LR_VR/Content/VRTemplate/Maps/_GENERATED/wesjones/Merge_30D51AE4.uasset",
+				"E:/LR_VR/Content/VRTemplate/Maps/_GENERATED/wesjones/Merge_4F150B6A.uasset",
+				"E:/LR_VR/Content/VRTemplate/Maps/_GENERATED/wesjones/Merge_72670D79.uasset",
+				"E:/LR_VR/Content/VRTemplate/Maps/_GENERATED/wesjones/Merge_766D5265.uasset",
+				"E:/LR_VR/Content/VRTemplate/Maps/_GENERATED/wesjones/Merge_7DA67229.uasset",
+				"E:/LR_VR/Content/VRTemplate/Maps/_GENERATED/wesjones/Merge_87B9715C.uasset",
+				"E:/LR_VR/Content/VRTemplate/Maps/_GENERATED/wesjones/Merge_8A732319.uasset",
+				"E:/LR_VR/Content/VRTemplate/Maps/_GENERATED/wesjones/Merge_9BF973D8.uasset",
+				"E:/LR_VR/Content/VRTemplate/Maps/_GENERATED/wesjones/Merge_9F57AA86.uasset",
+				"E:/LR_VR/Content/VRTemplate/Maps/_GENERATED/wesjones/Merge_CA1DFADB.uasset",
+				"E:/LR_VR/Content/VRTemplate/Maps/_GENERATED/wesjones/Merge_D1E914AA.uasset",
+				"E:/LR_VR/Content/VRTemplate/Maps/_GENERATED/wesjones/Merge_E0CCB291.uasset",
+				"E:/LR_VR/Content/VRTemplate/Maps/_GENERATED/wesjones/Merge_E12D9560.uasset",
+				"E:/LR_VR/Content/VRTemplate/Maps/_GENERATED/wesjones/Merge_F87D8BC5.uasset",
 				"C:/Users/Wesjo/OneDrive/Documents/Unreal Projects/VR_LR/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
 			]
 		}
